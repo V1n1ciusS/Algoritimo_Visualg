@@ -19,9 +19,9 @@ Inicio
       escreva("digite a segundo nota: ")
       leia(nota2[i])
       escreval(" ")
-      
+
    fimpara
-   
+
    para i de 1 ate 3 faca
       escreval("Média do aluno", nomeAluno[i])
       
